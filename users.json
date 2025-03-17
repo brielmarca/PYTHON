@@ -1,0 +1,22 @@
+{
+    "users": {
+        "brielmarca": {
+            "password": "neymar",
+            "card_info": {
+                "number": "9145265710724423",
+                "expiry": "05/26",
+                "cvv": "018"
+            },
+            "balance": 800.0
+        },
+        "joquinas": {
+            "password": "penis",
+            "card_info": {
+                "number": "4550122921957054",
+                "expiry": "04/25",
+                "cvv": "531"
+            },
+            "balance": 1200.0
+        }
+    }
+}
